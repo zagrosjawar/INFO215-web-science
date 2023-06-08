@@ -19,4 +19,6 @@ I also explored exciting topics such as social web mining, utilizing APIs like G
 - Semantic Web, knowledge graph and wikidata SPARQL query language
 - Mining the social web (GitHub and Wikipedia
 
+
 University of Bergen, spring 2023.
+
