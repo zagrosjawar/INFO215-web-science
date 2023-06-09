@@ -1,0 +1,68 @@
+# 1.
+http://www.pythonscraping.com/pages/warandpeace.html
+On this page, the lines spoken by characters in the story are in read, whereas the names of characters are in green.
+You can see the span tags, which reference the appropriate CSS classes,
+ in the following sample of the page's source code:
+<span class="red">Heavens! What a virulent attack!</span> replied
+<span class="green">the prince</span>, not in the least disconcerned
+By this reception.
+Write XPath expression to select elements that are red:
+==> //span[@class="red"]
+
+
+
+
+# 2.
+
+Sample XML
+<College>
+    <FootBall>
+        <Members>20</Members>
+        <Coach>Archie Theron</Coach>
+        <Name>Wild cats</Name>
+        <StarPlayer>David Perry</StarPlayer>
+    </FootBall>
+    <VolleyBall>
+        <Members>24</Members>
+        <Coach>Tim Jose</Coach>
+        <Name>Avengers</Name>
+        <StarPlayer>Lindsay Rowen</StarPlayer>
+    </VolleyBall>
+    <FoosBall>
+        <Members>22</Members>
+        <Coach>Rahul Mehra</Coach>
+        <Name>Playerz</Name>
+        <StarPlayer>Amanda Ren</StarPlayer>
+    </FoosBall>
+</College>
+
+# Write an XPath expression that searches for nodes that has name that ends with Player.
+# Answer:
+  /College/*/*[contains(local-name(), "Player")]
+Or
+  //*[contains(local-name(), "Player")]
+
+
+
+# 3
+See the HTML source of the webpage (http://www.pythonscraping.com/pages/page3.html) and write an XPath expression that
+selects the texts of Item titles, e.g., 'Vegetable Basket', 'Russian Nesting Dolls', etc.
+Write the output below:
+Answer:
+  //*[@class="gift"]/td[1]/text()
+
+
+
+# 4
+See the HTML source of the webpage http://www.pythonscraping.com/pages/page3.html
+and write an XPath expression that selects the texts of Cost for the first item,I.e,. $15.00.
+But you have to start from the first image item:
+//img[@src="../img/gifts/img1.jpg"]
+Use parent, preceding-sibling,..etc, to select the text $15.00
+
+Write your XPath expression here:
+    //img[@src="../img/gifts/img1.jpg"]/parent::td/preceding-sibling::td[text() = $15.00]
+
+
+
+#End
