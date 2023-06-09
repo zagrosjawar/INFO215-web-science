@@ -1,0 +1,18 @@
+Pick a website you wish (for example www.google.com). Using ping utility (window/macOS) and wireshark find answer to the following questions:
+
+1-Run <ping -n 5 www.yoursite.com> or <ping -c 5 www.yoursite.com> in your cmd/terminal while sniffing the network by wireshark.
+2-What is the IP address of the website you pick?
+3-How many packets have you captured overall and how many have you captured from this website?
+4-What protocol does the ping utility use?
+5-Using only wireshark, compute the RTT (Round Trip Time) – how long it took since your ping request was sent and until the ping reply was received?
+6-How many TCP packets have your computer sent or received?
+
+answers:
+1. ping –c 5 www.wikipedia.org
+2. ip address: 91.198.174.192
+3. overall captured packet 3526,  from wikipedia IP address: 10
+4. ping utility uses ICMP protocol
+5. RTT: 0.034 ms
+6. Number of TCP displayed:  1980 (56.2%)
+
+

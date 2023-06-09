@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+  <head>
+    <meta charset="UTF-8">
+    <title>Norway</title>
+    <style>
+        header, footer { background-color: blue; color: white;
+          display: flex;
+        }
+        div {
+          padding-left: 10px;
+        }
+        svg {
+          border-right: 2px solid white;
+        }
+        main {
+          flex: fit-content; display: flex;
+        }
+        article, section {
+          border: 2px solid lightslategray; margin: 3px;
+          padding: 4px;
+        }
+        table {
+          border-collapse: collapse;
+          border: 1px solid rgb(200,200,200); letter-spacing: 1px;
+          font-size: 0.8rem;
+        }
+        td, th {
+          border: 1px solid rgb(190,190,190); padding: 10px 20px;
+        }
+        th {
+          background-color: rgb(235,235,235);
+        }
+        td {
+          text-align: center;
+        }
+        tr:nth-child(even) td {
+
+          background-color: rgb(250,250,250); }
+        tr:nth-child(odd) td { background-color: rgb(245,245,245);
+        }
+        caption { padding: 10px;
+        }
+        footer {
+          text-align: center; }
+    </style>
+  </head>
+  <body>
+      <header class="">
+          <svg width="150" height="150">
+            <rect width="150" height="150" style="fill: red; "></rect>
+            <rect y= "65" width="150" height="40" style="fill: white; "></rect> <rect x= "40" width="40" height="150" style="fill: white; "></rect> <rect y= "70" width="150" height="30" style="fill: blue; "></rect> <rect x= "45" width="30" height="150" style="fill: blue; "></rect>
+          </svg>
+          <div>
+            <h1>Norway</h1>
+            <p class="description">Norwegian Counties</p>
+          </div>
+      </header>
+      <main>
+        <article> <!-- an article about Norwegian Counties-->
+            <h1>Fakta om Norges fylker fra 2020</h1>
+            <p>Norges elleve fylker fra 2020 er Troms og Finnmark, Nordland, Trøndelag,
+            Møre og Romsdal, Vestland, Rogaland,
+            Agder, Vestfold og Telemark, Viken, Oslo og Innlandet. Det betyr at sju av
+            dagens fylkesnavn forsvinner: Buskerud,
+            Akershus, Østfold, Oppland, Hedmark, Hordaland og Sogn og Fjordane.<br>
+            Viken blir befolkningsmessig det største fylket med over 1,2 millioner mennesker.
+            Troms og Finnmark blir det største i areal, men med færrest innbyggere – vel 243.000.<br>
+            De nye kommunene og fylkeskommunene får nye kommune- og fylkesnummer.
+
+            Sammenslåing av fylkeskommuner gjør det også nødvendig å fastsette nye kommunenummer til alle kommunene
+            i det nye fylket, da de to første sifrene i et kommunenummer viser til fylke.
+            </p>
+        </article>
+        <section> <!--table with counties and cities of related counties-->
+            <table>
+              <caption><b>Norske fylker</b></caption>
+              <th>Fylke</th>
+              <th>Fylke</th>
+              <th>Fylke</th>
+              <th>Fylke</th>
+              <tr>
+                <td>Troms</td>
+                <td>Finnmark</td>
+                <td>Nordland</td>
+                <td>Trøndelag</td>
+              </tr>
+              <tr>
+                <td>Møre</td>
+                <td>Romsdal</td>
+                <td>Vestland</td>
+                <td>Rogland</td>
+              </tr>
+              <tr>
+                <td>Agder</td>
+                <td>Vestfold</td>
+                <td>Telemark</td>
+                <td>Viken</td>
+              </tr>
+              <tr>
+                <td>Oslo</td>
+                <td>Innlandet</td>
+              </tr>
+            </table>
+        </section>
+      </main>
+      <footer>
+          <p>©Copyright 2050 by nobody. All rights reversed.<p>
+      </footer>
+  </body>
+</html>
