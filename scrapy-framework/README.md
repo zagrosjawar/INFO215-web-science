@@ -60,5 +60,5 @@ To set up and use Scrapy, follow these steps:
 
 Congratulations! You have successfully set up Scrapy and created a basic spider to scrape a website. Remember to review the Scrapy documentation for a deeper understanding of its capabilities and advanced features.
 
-Happy scraping!
+Happy scraping! (ChatGPT generated text)
 
