@@ -1,6 +1,6 @@
 # SPARQL Queries on Wikidata
 
-This repository contains SPARQL queries to fetch specific information from [Wikidata](https://www.wikidata.org/). Below are the queries for different tasks:
+This directory contains SPARQL queries to fetch specific information from [Wikidata](https://www.wikidata.org/). Below are the queries for different tasks:
 
 ## 2.1 Find all American Politicians whose fathers were also politicians
 
