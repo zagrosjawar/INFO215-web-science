@@ -1,5 +1,5 @@
 ## spaCy
-SpaCyis a free, open-source library for advanced Natural Language Processing (NLP) in python.
+SpaCy is a free, open-source library for advanced Natural Language Processing (NLP) in python.
 Installations instructions: https://spacey.io/usage
 
 <code>pip install spacy</code>
