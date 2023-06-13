@@ -1,0 +1,1194 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Bergen" />
+    <node id="SaygıveRahmetle" />
+    <node id="MadMuscle" />
+    <node id="Fitness" />
+    <node id="Workout" />
+    <node id="bergen" />
+    <node id="norway" />
+    <node id="citybreak" />
+    <node id="pint23no" />
+    <node id="pint22" />
+    <node id="pintofscience" />
+    <node id="scicomm" />
+    <node id="event" />
+    <node id="norge" />
+    <node id="oslo" />
+    <node id="stavanger" />
+    <node id="trondheim" />
+    <node id="tromso" />
+    <node id="Norge" />
+    <node id="Europe" />
+    <node id="Oslo" />
+    <node id="برغن" />
+    <node id="MüslümGürses" />
+    <node id="barismanco" />
+    <node id="saygıverahmetle" />
+    <node id="AnafartalarZaferi" />
+    <node id="AnafartalardaTürktopçusu" />
+    <node id="Ruhunuzşadolsun" />
+    <node id="Minnettarız" />
+    <node id="analytics" />
+    <node id="Forrester" />
+    <node id="WNS" />
+    <node id="soldsoldsold" />
+    <node id="madmusclegarage" />
+    <node id="consignment" />
+    <node id="chevroletcorvette" />
+    <node id="Appraisal" />
+    <node id="fordmustang" />
+    <node id="prepurchaseinspection" />
+    <node id="chevroletimpalass409" />
+    <node id="fordtrucks" />
+    <node id="Q1Results" />
+    <node id="WintershallDea" />
+    <node id="CMH" />
+    <node id="fitness" />
+    <node id="gym" />
+    <node id="workout" />
+    <node id="fitnessmotivation" />
+    <node id="fit" />
+    <node id="motivation" />
+    <node id="bodybuilding" />
+    <node id="gymhumor" />
+    <node id="gymmemes" />
+    <node id="gymmotivation" />
+    <node id="muscle" />
+    <node id="bodybuilder" />
+    <node id="Saturday" />
+    <node id="PuertoRico" />
+    <node id="Hearmiaout" />
+    <node id="pullups" />
+    <node id="legraises" />
+    <node id="burpees" />
+    <node id="kettlebell" />
+    <node id="upperbody" />
+    <node id="training" />
+    <node id="coaching" />
+    <node id="420day" />
+    <node id="BOYSPLANETfinal" />
+    <node id="gymgirl" />
+    <node id="FridayThread" />
+    <node id="ETH" />
+    <node id="XFlows" />
+    <node id="Wanchain" />
+    <node id="Ethereum" />
+    <node id="Arbitrum" />
+    <node id="Optimism" />
+    <node id="Polygon" />
+    <node id="WeAreAllConnected" />
+    <node id="ginger" />
+    <node id="swings" />
+    <node id="BTC" />
+    <node id="TSLA" />
+    <node id="NASDAQ" />
+    <node id="aurora" />
+    <node id="auroraborealis" />
+    <node id="visitnorway" />
+    <node id="visitoslo" />
+    <node id="Ukraine" />
+    <node id="UkraineWillWin" />
+    <node id="Ukrainian" />
+    <node id="Norway" />
+    <node id="Norwegian" />
+    <node id="RussiaIsLosing" />
+    <node id="Russia" />
+    <node id="Germany" />
+    <node id="russia" />
+    <node id="Norwaymemories" />
+    <node id="stampcollecting" />
+    <node id="BREAKING" />
+    <node id="Sweden" />
+    <node id="Paris" />
+    <node id="win" />
+    <node id="OMGexperiences" />
+    <node id="France" />
+    <node id="travel" />
+    <node id="getaways" />
+    <node id="DevXAPAC" />
+    <node id="Barcelona" />
+    <node id="holidays" />
+    <node id="deals" />
+    <node id="italy" />
+    <node id="bigsavings" />
+    <node id="Belfast" />
+    <node id="Westeros" />
+    <node id="GOT" />
+    <node id="GameOfThrones" />
+    <node id="Plaka" />
+    <node id="Athens" />
+    <node id="travelguides" />
+    <node id="travelmemoir" />
+    <node id="GirlGoneGreek" />
+    <node id="Krakow" />
+    <node id="dog" />
+    <node id="book" />
+    <node id="PintOfScience" />
+    <node id="LeuvenBrainInstitute" />
+    <node id="pint2023" />
+    <node id="pint23" />
+    <node id="imperialcollegelondon" />
+    <node id="DNA" />
+    <node id="OTD" />
+    <node id="SciArt" />
+    <node id="Scicomm" />
+    <node id="DNADay" />
+    <node id="iosdev" />
+    <node id="metalapi" />
+    <node id="computergraphics" />
+    <node id="nmr" />
+    <node id="NMRchat" />
+    <node id="chemtwitter" />
+    <node id="OrganicChemistry" />
+    <node id="SciComm" />
+    <node id="figure1a" />
+    <node id="AANAM" />
+    <node id="AAN" />
+    <node id="Neurology" />
+    <node id="NeuroTwitter" />
+    <node id="RwOT" />
+    <node id="MedTwitter" />
+    <node id="MedEd" />
+    <node id="NeurologyProud" />
+    <node id="neurologist" />
+    <node id="nanoparticles" />
+    <node id="sciart" />
+    <node id="nanotechnology" />
+    <node id="PharmEd" />
+    <node id="pharmacology" />
+    <node id="SeaStar" />
+    <node id="Starfish" />
+    <node id="MarineBiology" />
+    <node id="Biology" />
+    <node id="Science" />
+    <node id="Earth" />
+    <node id="WildlifeEducation" />
+    <node id="Infographic" />
+    <node id="Marineanimal" />
+    <node id="InfoDesign" />
+    <node id="VizSciComm" />
+    <node id="Art" />
+    <node id="Illustration" />
+    <node id="ScientificIllustration" />
+    <node id="IllustratorsOnTwitter" />
+    <node id="Gleam" />
+    <node id="DDMTOWN" />
+    <node id="METAVERSE" />
+    <node id="NFT" />
+    <node id="AI_fashion" />
+    <node id="gleam" />
+    <node id="tax" />
+    <node id="Shiba" />
+    <node id="Doge" />
+    <node id="ShibaDoge" />
+    <node id="EVENT" />
+    <node id="KONPAY" />
+    <node id="StarWarsDay" />
+    <node id="StarWars" />
+    <node id="vinu" />
+    <node id="vinusquad" />
+    <node id="vinustarwars" />
+    <node id="prizes" />
+    <node id="dclfam" />
+    <node id="metaverse" />
+    <node id="party" />
+    <node id="dj" />
+    <node id="Web3" />
+    <node id="Event" />
+    <node id="winners" />
+    <node id="wedding" />
+    <node id="GlobalCrisis" />
+    <node id="ThereisaWayOut" />
+    <node id="Norwegen" />
+    <node id="Waermepumpe" />
+    <node id="scratch" />
+    <node id="scratching" />
+    <node id="contactingaliens" />
+    <node id="tecnics1210" />
+    <node id="moss" />
+    <node id="østfold" />
+    <node id="scandinavia" />
+    <node id="skandinavia" />
+    <node id="musikk" />
+    <node id="hiphop" />
+    <node id="vinyl" />
+    <node id="vinylrecords" />
+    <node id="vinylplater" />
+    <node id="reloop" />
+    <node id="bankID" />
+    <node id="freshcutz_barbershop" />
+    <node id="Qasim_Ali_Qezelbash" />
+    <node id="قاسم_علي_قزلباش" />
+    <node id="barber" />
+    <node id="ulsteinvik" />
+    <node id="nrkmogr" />
+    <node id="yrno" />
+    <node id="trashingaguitar" />
+    <node id="trash" />
+    <node id="fuckdegogdingitar" />
+    <node id="knusergitar" />
+    <node id="rocknroll" />
+    <node id="notgivingasinglefuck" />
+    <node id="music" />
+    <node id="Norvegia" />
+    <node id="winter" />
+    <node id="iarna" />
+    <node id="zapada" />
+    <node id="nea" />
+    <node id="snow" />
+    <node id="tromsø" />
+    <node id="northernnorway" />
+    <node id="visittromso" />
+    <node id="northnorway2day" />
+    <node id="northernlights" />
+    <node id="tromsolove" />
+    <node id="naturephotography" />
+    <node id="lovenature" />
+    <node id="worldaurora" />
+    <node id="ELS" />
+    <node id="postmalone" />
+    <node id="posty" />
+    <node id="bubbly" />
+    <node id="LilleO" />
+    <node id="publictransport" />
+    <node id="SoProud" />
+    <node id="ActOnClimate" />
+    <node id="SDGs" />
+    <node id="GlobalGoals" />
+    <node id="Stavanger" />
+    <node id="Iraq" />
+    <node id="travling" />
+    <node id="sculpture" />
+    <node id="sailing" />
+    <node id="Madlasandnes" />
+    <node id="Iona" />
+    <node id="hammondcrew" />
+    <node id="Trondheim" />
+    <node id="Sør" />
+    <node id="Trøndelag" />
+    <node id="Outdoor" />
+    <node id="Water" />
+    <node id="ArveTellefsen" />
+    <node id="statue" />
+    <node id="norwegen" />
+    <node id="utforsknorge" />
+    <node id="midtbyen" />
+    <node id="europe" />
+    <node id="stolavsway" />
+    <node id="Diaspora" />
+    <node id="F831" />
+    <node id="firstbreakin3years" />
+    <node id="skitouring" />
+    <node id="art" />
+    <node id="artgallery" />
+    <node id="leica" />
+    <node id="leicaphotography" />
+    <node id="Tromso" />
+    <node id="South" />
+    <node id="Tromsø" />
+    <node id="Institutt" />
+    <node id="for" />
+    <node id="Informatikk" />
+    <node id="Universitetet" />
+    <node id="Troms" />
+    <node id="og" />
+    <node id="Finnmark" />
+    <node id="Høver" />
+    <node id="Tenker" />
+    <node id="Mener" />
+    <node id="Viker" />
+    <node id="Kiev" />
+    <node id="Molde" />
+    <node id="Takk" />
+    <node id="Gardermoen" />
+    <node id="Sarpsborg" />
+    <node id="Bodo" />
+    <node id="Alta" />
+    <node id="voyage" />
+    <node id="tourisme" />
+    <node id="norvège" />
+    <node id="auroreboreale" />
+    <node id="capnord" />
+    <node id="scandinavie" />
+    <node id="paysage" />
+    <node id="nrkdebatt" />
+    <node id="Trondhiem" />
+    <node id="sterkeresammen" />
+    <node id="fotbollströjefredag" />
+    <node id="Fotball" />
+    <node id="future" />
+    <node id="Estonian" />
+    <node id="founders" />
+    <node id="Biden" />
+    <node id="plovdiv" />
+    <node id="Bulgaria" />
+    <node id="firefighters" />
+    <node id="Switzerland" />
+    <node id="tuesdayvibe" />
+    <node id="StandWithUkraine" />
+    <node id="NAFO" />
+    <node id="Fellas" />
+    <node id="NATO" />
+    <node id="ukrainecounteroffensive" />
+    <node id="America" />
+    <node id="gas" />
+    <node id="Armenia" />
+    <node id="HumanRights" />
+    <node id="European" />
+    <node id="nationalism" />
+    <node id="socialism" />
+    <node id="antiglobalism" />
+    <node id="Deutschland" />
+    <node id="Europa" />
+    <node id="WhiteLivesMatter" />
+    <node id="Italy" />
+    <node id="SHOONGxTAEYANGxLISA" />
+    <node id="LISA" />
+    <node id="LeafsForever" />
+    <node id="TimeSquare" />
+    <node id="XRPL" />
+    <node id="XRPLCommunity" />
+    <node id="NFTCommunity" />
+    <node id="XRP" />
+    <node id="NFTs" />
+    <node id="XRPCommunity" />
+    <node id="creativityandinnovationday" />
+    <node id="ELs" />
+    <node id="ELL2point0" />
+    <node id="artworks" />
+    <node id="NFTartists" />
+    <node id="USA" />
+    <node id="rabbit2023" />
+    <node id="CandyLove" />
+    <node id="NordicLife" />
+    <node id="VisitOslo" />
+    <node id="royalpalaceoslo" />
+    <node id="street" />
+    <node id="heritage" />
+    <node id="montain" />
+    <node id="landscapes" />
+    <node id="architecture" />
+    <node id="arquitectura" />
+    <node id="arquitetura" />
+    <node id="landscape" />
+    <node id="wu_norway" />
+    <node id="norway_places" />
+    <node id="topnorwayphotos" />
+    <node id="norwaytravel" />
+    <node id="p3top" />
+    <node id="vsco" />
+    <node id="tourism" />
+    <node id="trip" />
+    <node id="PostMalone" />
+    <node id="postmaloneconcert" />
+    <node id="ghosty" />
+    <node id="theo2" />
+    <node id="o2tickets" />
+    <node id="postmalonetickets" />
+    <node id="o2london" />
+    <node id="tickets" />
+    <node id="wow" />
+    <node id="KeepGoing" />
+    <node id="postycrew" />
+    <node id="newcontent" />
+    <node id="alert" />
+    <node id="emerald" />
+    <node id="enigma" />
+    <node id="ponder" />
+    <node id="consider" />
+    <node id="concept" />
+    <node id="iam" />
+    <node id="bubblynft" />
+    <node id="wiretree" />
+    <node id="sculptures" />
+    <node id="resin" />
+    <node id="mold" />
+    <node id="skull" />
+    <node id="MHHSBD" />
+    <node id="resinart" />
+    <node id="creativeminds" />
+    <node id="trialanderror" />
+    <node id="creativeart" />
+    <node id="oakn4" />
+    <node id="winebar" />
+    <node id="winestore" />
+    <node id="champagne" />
+    <node id="charlesheidsieck" />
+    <node id="sparklingwine" />
+    <node id="frenchwine" />
+    <node id="finsburypark" />
+    <node id="northlondon" />
+    <node id="theplacetobe" />
+    <node id="quest" />
+    <node id="Prosecco" />
+    <node id="Champagne" />
+    <node id="WineLovers" />
+    <node id="Bubbly" />
+    <node id="NapoliMilan" />
+    <node id="AJALOSC" />
+    <node id="PublicTransport" />
+    <node id="design" />
+    <node id="posterdesignchallenge" />
+    <node id="Bradford" />
+    <node id="Mexico" />
+    <node id="YutongTechnology" />
+    <node id="CDMX" />
+    <node id="busstop" />
+    <node id="cycling" />
+    <node id="kadambabus" />
+    <node id="ClimateEmergency" />
+    <node id="climate" />
+    <node id="energy" />
+    <node id="renewables" />
+    <node id="COP15" />
+    <node id="biodiversity" />
+    <node id="deforestation" />
+    <node id="rewilding" />
+    <node id="solutions" />
+    <node id="nature" />
+    <node id="GreenNewDeal" />
+    <node id="TrophyHunting" />
+    <node id="MakeShellPay" />
+    <node id="actonclimate" />
+    <node id="climateaction" />
+    <node id="GreenCities" />
+    <node id="LACForum2030" />
+    <node id="netzero" />
+    <node id="Under2Coalition" />
+    <node id="Goal8" />
+    <node id="Tech4SDGs" />
+    <node id="research" />
+    <node id="STMAnnualUS" />
+    <node id="Youth2030" />
+    <node id="COP28" />
+    <node id="GlobalGateway" />
+    <node id="newACPEU" />
+    <node id="EULAC" />
+    <node id="WorldBookDay" />
+    <node id="WaterAction" />
+    <node id="DiplomacyDay" />
+    <node id="ClimateAction" />
+    <node id="ServingForPeace" />
+    <node id="8BillionStrong" />
+    <node id="ClimateCrisis" />
+    <node id="CHAEHYUN" />
+    <node id="김채현" />
+    <node id="Kep1er" />
+    <node id="케플러" />
+    <node id="SUGA_AgustD_TOUR" />
+    <node id="khositwala" />
+    <node id="BBTitans" />
+    <node id="KhobangMazitwala" />
+    <node id="XRPArmyWorld" />
+    <node id="XRPArmyUnite" />
+    <node id="Metaverse" />
+    <node id="XRPArmy" />
+    <node id="Sologenic" />
+    <node id="Xumm" />
+    <node id="Ecommerce" />
+    <node id="HBARbarians" />
+    <node id="XRPLMoonbirds" />
+    <node id="RatPunks" />
+    <node id="xrpl" />
+    <node id="PixelAstros" />
+    <node id="XUMM" />
+    <node id="NFTGiveaways" />
+    <node id="NFTshill" />
+    <node id="NFTdrops" />
+    <node id="SGB" />
+    <node id="SongbirdNetwork" />
+    <node id="nftartgallery" />
+    <node id="NFTart" />
+    <node id="Flare" />
+    <node id="HBAR" />
+    <node id="tezos" />
+    <node id="AIArtwork" />
+    <node id="Bitcoin" />
+    <node id="Giveaway" />
+    <node id="TwitterPicker" />
+    <node id="GiveawayAlert" />
+    <node id="Giveaways" />
+    <node id="XRPHolders" />
+    <node id="RIPPLECLOWNS" />
+    <node id="FineArt" />
+    <node id="GIVEAWAY" />
+    <node id="Alcacor" />
+    <node id="PolygonNFT" />
+    <node id="AMAmen" />
+    <node id="AviveMap" />
+    <node id="AviveGlory" />
+    <node id="WEB3" />
+    <node id="community" />
+    <node id="nftcollector" />
+    <node id="Matrix" />
+    <node id="glitch" />
+    <node id="Freemint" />
+    <node id="FreeNFTs" />
+    <node id="Airdrop" />
+    <node id="nfts" />
+    <node id="sitone_art" />
+    <node id="AppleDpod" />
+    <node id="web3community" />
+    <node id="Crypto" />
+    <node id="cryptocurrency" />
+    <node id="nftart" />
+    <node id="EthereumNFT" />
+    <node id="opensea" />
+    <node id="MagicEden" />
+    <node id="Blur" />
+    <node id="Ripple" />
+    <node id="Moovy" />
+    <node id="Marketplace" />
+    <node id="Gateio" />
+    <node id="cars" />
+    <node id="Drive2Earn" />
+    <node id="Move2Earn" />
+    <node id="giveaway" />
+    <node id="giveaways" />
+    <node id="USDTGiveaway" />
+    <node id="Memecoins" />
+    <node id="Giveawayscrypto" />
+    <node id="CryptoNews" />
+    <node id="Blockchain" />
+    <node id="follow" />
+    <node id="crypto" />
+    <node id="NFTCommunitys" />
+    <node id="USDT" />
+    <node id="Airdrops" />
+    <node id="Sui" />
+    <node id="mīnArtClub" />
+    <node id="testnet" />
+    <node id="MULTIVERSX" />
+    <node id="Thread" />
+    <node id="airdrop" />
+    <node id="AirdropAlert" />
+    <node id="XRPcommunity" />
+    <node id="KASPA" />
+    <node id="DigitalSilver" />
+    <node id="dagknight" />
+    <node id="BlockDag" />
+    <node id="x100Gem" />
+    <node id="KAS" />
+    <node id="xrp" />
+    <node id="xrpsec" />
+    <node id="xrparmy" />
+    <node id="xrpcommunity" />
+    <node id="xrpledger" />
+    <node id="xrpthestandart" />
+    <node id="ripple" />
+    <node id="ripplesec" />
+    <edge source="Bergen" target="SaygıveRahmetle" />
+    <edge source="Bergen" target="MadMuscle" />
+    <edge source="Bergen" target="Fitness" />
+    <edge source="Bergen" target="Workout" />
+    <edge source="Bergen" target="bergen" />
+    <edge source="Bergen" target="norway" />
+    <edge source="Bergen" target="citybreak" />
+    <edge source="Bergen" target="pint23no" />
+    <edge source="Bergen" target="pint22" />
+    <edge source="Bergen" target="pintofscience" />
+    <edge source="Bergen" target="scicomm" />
+    <edge source="Bergen" target="event" />
+    <edge source="Bergen" target="norge" />
+    <edge source="Bergen" target="oslo" />
+    <edge source="Bergen" target="stavanger" />
+    <edge source="Bergen" target="trondheim" />
+    <edge source="Bergen" target="tromso" />
+    <edge source="Bergen" target="Norge" />
+    <edge source="Bergen" target="Europe" />
+    <edge source="Bergen" target="Oslo" />
+    <edge source="Bergen" target="برغن" />
+    <edge source="SaygıveRahmetle" target="MüslümGürses" />
+    <edge source="SaygıveRahmetle" target="barismanco" />
+    <edge source="SaygıveRahmetle" target="saygıverahmetle" />
+    <edge source="SaygıveRahmetle" target="AnafartalarZaferi" />
+    <edge source="SaygıveRahmetle" target="AnafartalardaTürktopçusu" />
+    <edge source="SaygıveRahmetle" target="Ruhunuzşadolsun" />
+    <edge source="SaygıveRahmetle" target="Minnettarız" />
+    <edge source="MadMuscle" target="analytics" />
+    <edge source="MadMuscle" target="Forrester" />
+    <edge source="MadMuscle" target="WNS" />
+    <edge source="MadMuscle" target="soldsoldsold" />
+    <edge source="MadMuscle" target="madmusclegarage" />
+    <edge source="MadMuscle" target="consignment" />
+    <edge source="MadMuscle" target="chevroletcorvette" />
+    <edge source="MadMuscle" target="Appraisal" />
+    <edge source="MadMuscle" target="fordmustang" />
+    <edge source="MadMuscle" target="prepurchaseinspection" />
+    <edge source="MadMuscle" target="chevroletimpalass409" />
+    <edge source="MadMuscle" target="fordtrucks" />
+    <edge source="MadMuscle" target="Q1Results" />
+    <edge source="MadMuscle" target="WintershallDea" />
+    <edge source="MadMuscle" target="CMH" />
+    <edge source="Fitness" target="fitness" />
+    <edge source="Workout" target="gym" />
+    <edge source="Workout" target="workout" />
+    <edge source="Workout" target="fitnessmotivation" />
+    <edge source="Workout" target="fit" />
+    <edge source="Workout" target="motivation" />
+    <edge source="Workout" target="bodybuilding" />
+    <edge source="Workout" target="gymhumor" />
+    <edge source="Workout" target="gymmemes" />
+    <edge source="Workout" target="gymmotivation" />
+    <edge source="Workout" target="muscle" />
+    <edge source="Workout" target="bodybuilder" />
+    <edge source="Workout" target="Saturday" />
+    <edge source="Workout" target="PuertoRico" />
+    <edge source="Workout" target="Hearmiaout" />
+    <edge source="Workout" target="pullups" />
+    <edge source="Workout" target="legraises" />
+    <edge source="Workout" target="burpees" />
+    <edge source="Workout" target="kettlebell" />
+    <edge source="Workout" target="upperbody" />
+    <edge source="Workout" target="training" />
+    <edge source="Workout" target="coaching" />
+    <edge source="Workout" target="420day" />
+    <edge source="Workout" target="BOYSPLANETfinal" />
+    <edge source="Workout" target="gymgirl" />
+    <edge source="Workout" target="FridayThread" />
+    <edge source="Workout" target="ETH" />
+    <edge source="Workout" target="XFlows" />
+    <edge source="Workout" target="Wanchain" />
+    <edge source="Workout" target="Ethereum" />
+    <edge source="Workout" target="Arbitrum" />
+    <edge source="Workout" target="Optimism" />
+    <edge source="Workout" target="Polygon" />
+    <edge source="Workout" target="WeAreAllConnected" />
+    <edge source="Workout" target="ginger" />
+    <edge source="Workout" target="swings" />
+    <edge source="bergen" target="BTC" />
+    <edge source="bergen" target="TSLA" />
+    <edge source="bergen" target="NASDAQ" />
+    <edge source="norway" target="aurora" />
+    <edge source="norway" target="auroraborealis" />
+    <edge source="norway" target="visitnorway" />
+    <edge source="norway" target="visitoslo" />
+    <edge source="norway" target="Ukraine" />
+    <edge source="norway" target="UkraineWillWin" />
+    <edge source="norway" target="Ukrainian" />
+    <edge source="norway" target="Norway" />
+    <edge source="norway" target="Norwegian" />
+    <edge source="norway" target="RussiaIsLosing" />
+    <edge source="norway" target="Russia" />
+    <edge source="norway" target="Germany" />
+    <edge source="norway" target="russia" />
+    <edge source="norway" target="Norwaymemories" />
+    <edge source="norway" target="stampcollecting" />
+    <edge source="norway" target="BREAKING" />
+    <edge source="norway" target="Sweden" />
+    <edge source="citybreak" target="Paris" />
+    <edge source="citybreak" target="win" />
+    <edge source="citybreak" target="OMGexperiences" />
+    <edge source="citybreak" target="France" />
+    <edge source="citybreak" target="travel" />
+    <edge source="citybreak" target="getaways" />
+    <edge source="citybreak" target="DevXAPAC" />
+    <edge source="citybreak" target="Barcelona" />
+    <edge source="citybreak" target="holidays" />
+    <edge source="citybreak" target="deals" />
+    <edge source="citybreak" target="italy" />
+    <edge source="citybreak" target="bigsavings" />
+    <edge source="citybreak" target="Belfast" />
+    <edge source="citybreak" target="Westeros" />
+    <edge source="citybreak" target="GOT" />
+    <edge source="citybreak" target="GameOfThrones" />
+    <edge source="citybreak" target="Plaka" />
+    <edge source="citybreak" target="Athens" />
+    <edge source="citybreak" target="travelguides" />
+    <edge source="citybreak" target="travelmemoir" />
+    <edge source="citybreak" target="GirlGoneGreek" />
+    <edge source="citybreak" target="Krakow" />
+    <edge source="pint22" target="dog" />
+    <edge source="pint22" target="book" />
+    <edge source="pintofscience" target="PintOfScience" />
+    <edge source="pintofscience" target="LeuvenBrainInstitute" />
+    <edge source="pintofscience" target="pint2023" />
+    <edge source="pintofscience" target="pint23" />
+    <edge source="pintofscience" target="imperialcollegelondon" />
+    <edge source="scicomm" target="DNA" />
+    <edge source="scicomm" target="OTD" />
+    <edge source="scicomm" target="SciArt" />
+    <edge source="scicomm" target="Scicomm" />
+    <edge source="scicomm" target="DNADay" />
+    <edge source="scicomm" target="iosdev" />
+    <edge source="scicomm" target="metalapi" />
+    <edge source="scicomm" target="computergraphics" />
+    <edge source="scicomm" target="nmr" />
+    <edge source="scicomm" target="NMRchat" />
+    <edge source="scicomm" target="chemtwitter" />
+    <edge source="scicomm" target="OrganicChemistry" />
+    <edge source="scicomm" target="SciComm" />
+    <edge source="scicomm" target="figure1a" />
+    <edge source="scicomm" target="AANAM" />
+    <edge source="scicomm" target="AAN" />
+    <edge source="scicomm" target="Neurology" />
+    <edge source="scicomm" target="NeuroTwitter" />
+    <edge source="scicomm" target="RwOT" />
+    <edge source="scicomm" target="MedTwitter" />
+    <edge source="scicomm" target="MedEd" />
+    <edge source="scicomm" target="NeurologyProud" />
+    <edge source="scicomm" target="neurologist" />
+    <edge source="scicomm" target="nanoparticles" />
+    <edge source="scicomm" target="sciart" />
+    <edge source="scicomm" target="nanotechnology" />
+    <edge source="scicomm" target="PharmEd" />
+    <edge source="scicomm" target="pharmacology" />
+    <edge source="scicomm" target="SeaStar" />
+    <edge source="scicomm" target="Starfish" />
+    <edge source="scicomm" target="MarineBiology" />
+    <edge source="scicomm" target="Biology" />
+    <edge source="scicomm" target="Science" />
+    <edge source="scicomm" target="Earth" />
+    <edge source="scicomm" target="WildlifeEducation" />
+    <edge source="scicomm" target="Infographic" />
+    <edge source="scicomm" target="Marineanimal" />
+    <edge source="scicomm" target="InfoDesign" />
+    <edge source="scicomm" target="VizSciComm" />
+    <edge source="scicomm" target="Art" />
+    <edge source="scicomm" target="Illustration" />
+    <edge source="scicomm" target="ScientificIllustration" />
+    <edge source="scicomm" target="IllustratorsOnTwitter" />
+    <edge source="event" target="Gleam" />
+    <edge source="event" target="DDMTOWN" />
+    <edge source="event" target="METAVERSE" />
+    <edge source="event" target="NFT" />
+    <edge source="event" target="AI_fashion" />
+    <edge source="event" target="gleam" />
+    <edge source="event" target="tax" />
+    <edge source="event" target="Shiba" />
+    <edge source="event" target="Doge" />
+    <edge source="event" target="ShibaDoge" />
+    <edge source="event" target="EVENT" />
+    <edge source="event" target="KONPAY" />
+    <edge source="event" target="StarWarsDay" />
+    <edge source="event" target="StarWars" />
+    <edge source="event" target="vinu" />
+    <edge source="event" target="vinusquad" />
+    <edge source="event" target="vinustarwars" />
+    <edge source="event" target="prizes" />
+    <edge source="event" target="dclfam" />
+    <edge source="event" target="metaverse" />
+    <edge source="event" target="party" />
+    <edge source="event" target="dj" />
+    <edge source="event" target="Web3" />
+    <edge source="event" target="Event" />
+    <edge source="event" target="winners" />
+    <edge source="event" target="wedding" />
+    <edge source="event" target="GlobalCrisis" />
+    <edge source="event" target="ThereisaWayOut" />
+    <edge source="norge" target="Norwegen" />
+    <edge source="norge" target="Waermepumpe" />
+    <edge source="norge" target="scratch" />
+    <edge source="norge" target="scratching" />
+    <edge source="norge" target="contactingaliens" />
+    <edge source="norge" target="tecnics1210" />
+    <edge source="norge" target="moss" />
+    <edge source="norge" target="østfold" />
+    <edge source="norge" target="scandinavia" />
+    <edge source="norge" target="skandinavia" />
+    <edge source="norge" target="musikk" />
+    <edge source="norge" target="hiphop" />
+    <edge source="norge" target="vinyl" />
+    <edge source="norge" target="vinylrecords" />
+    <edge source="norge" target="vinylplater" />
+    <edge source="norge" target="reloop" />
+    <edge source="norge" target="bankID" />
+    <edge source="norge" target="freshcutz_barbershop" />
+    <edge source="norge" target="Qasim_Ali_Qezelbash" />
+    <edge source="norge" target="قاسم_علي_قزلباش" />
+    <edge source="norge" target="barber" />
+    <edge source="norge" target="ulsteinvik" />
+    <edge source="norge" target="nrkmogr" />
+    <edge source="norge" target="yrno" />
+    <edge source="norge" target="trashingaguitar" />
+    <edge source="norge" target="trash" />
+    <edge source="norge" target="fuckdegogdingitar" />
+    <edge source="norge" target="knusergitar" />
+    <edge source="norge" target="rocknroll" />
+    <edge source="norge" target="notgivingasinglefuck" />
+    <edge source="norge" target="music" />
+    <edge source="norge" target="Norvegia" />
+    <edge source="norge" target="winter" />
+    <edge source="norge" target="iarna" />
+    <edge source="norge" target="zapada" />
+    <edge source="norge" target="nea" />
+    <edge source="norge" target="snow" />
+    <edge source="norge" target="tromsø" />
+    <edge source="norge" target="northernnorway" />
+    <edge source="norge" target="visittromso" />
+    <edge source="norge" target="northnorway2day" />
+    <edge source="norge" target="northernlights" />
+    <edge source="norge" target="tromsolove" />
+    <edge source="norge" target="naturephotography" />
+    <edge source="norge" target="lovenature" />
+    <edge source="norge" target="worldaurora" />
+    <edge source="oslo" target="ELS" />
+    <edge source="oslo" target="postmalone" />
+    <edge source="oslo" target="posty" />
+    <edge source="oslo" target="bubbly" />
+    <edge source="oslo" target="LilleO" />
+    <edge source="oslo" target="publictransport" />
+    <edge source="oslo" target="SoProud" />
+    <edge source="oslo" target="ActOnClimate" />
+    <edge source="oslo" target="SDGs" />
+    <edge source="oslo" target="GlobalGoals" />
+    <edge source="oslo" target="Oslo" />
+    <edge source="stavanger" target="Stavanger" />
+    <edge source="stavanger" target="Iraq" />
+    <edge source="stavanger" target="travling" />
+    <edge source="stavanger" target="sculpture" />
+    <edge source="stavanger" target="sailing" />
+    <edge source="stavanger" target="Madlasandnes" />
+    <edge source="stavanger" target="Iona" />
+    <edge source="stavanger" target="hammondcrew" />
+    <edge source="trondheim" target="Trondheim" />
+    <edge source="trondheim" target="Sør" />
+    <edge source="trondheim" target="Trøndelag" />
+    <edge source="trondheim" target="Outdoor" />
+    <edge source="trondheim" target="Water" />
+    <edge source="trondheim" target="ArveTellefsen" />
+    <edge source="trondheim" target="statue" />
+    <edge source="trondheim" target="norwegen" />
+    <edge source="trondheim" target="utforsknorge" />
+    <edge source="trondheim" target="midtbyen" />
+    <edge source="trondheim" target="europe" />
+    <edge source="trondheim" target="stolavsway" />
+    <edge source="trondheim" target="Diaspora" />
+    <edge source="trondheim" target="F831" />
+    <edge source="tromso" target="firstbreakin3years" />
+    <edge source="tromso" target="skitouring" />
+    <edge source="tromso" target="art" />
+    <edge source="tromso" target="artgallery" />
+    <edge source="tromso" target="leica" />
+    <edge source="tromso" target="leicaphotography" />
+    <edge source="tromso" target="Tromso" />
+    <edge source="tromso" target="South" />
+    <edge source="tromso" target="Tromsø" />
+    <edge source="tromso" target="Institutt" />
+    <edge source="tromso" target="for" />
+    <edge source="tromso" target="Informatikk" />
+    <edge source="tromso" target="Universitetet" />
+    <edge source="tromso" target="Troms" />
+    <edge source="tromso" target="og" />
+    <edge source="tromso" target="Finnmark" />
+    <edge source="tromso" target="Høver" />
+    <edge source="tromso" target="Tenker" />
+    <edge source="tromso" target="Mener" />
+    <edge source="tromso" target="Viker" />
+    <edge source="tromso" target="Kiev" />
+    <edge source="tromso" target="Molde" />
+    <edge source="tromso" target="Takk" />
+    <edge source="tromso" target="Gardermoen" />
+    <edge source="tromso" target="Sarpsborg" />
+    <edge source="tromso" target="Bodo" />
+    <edge source="tromso" target="Alta" />
+    <edge source="tromso" target="voyage" />
+    <edge source="tromso" target="tourisme" />
+    <edge source="tromso" target="norvège" />
+    <edge source="tromso" target="auroreboreale" />
+    <edge source="tromso" target="capnord" />
+    <edge source="tromso" target="scandinavie" />
+    <edge source="tromso" target="paysage" />
+    <edge source="tromso" target="nrkdebatt" />
+    <edge source="tromso" target="Trondhiem" />
+    <edge source="Norge" target="sterkeresammen" />
+    <edge source="Norge" target="fotbollströjefredag" />
+    <edge source="Norge" target="Fotball" />
+    <edge source="Europe" target="future" />
+    <edge source="Europe" target="Estonian" />
+    <edge source="Europe" target="founders" />
+    <edge source="Europe" target="Biden" />
+    <edge source="Europe" target="plovdiv" />
+    <edge source="Europe" target="Bulgaria" />
+    <edge source="Europe" target="firefighters" />
+    <edge source="Europe" target="Switzerland" />
+    <edge source="Europe" target="tuesdayvibe" />
+    <edge source="Europe" target="StandWithUkraine" />
+    <edge source="Europe" target="NAFO" />
+    <edge source="Europe" target="Fellas" />
+    <edge source="Europe" target="NATO" />
+    <edge source="Europe" target="ukrainecounteroffensive" />
+    <edge source="Europe" target="America" />
+    <edge source="Europe" target="gas" />
+    <edge source="Europe" target="Armenia" />
+    <edge source="Europe" target="HumanRights" />
+    <edge source="Europe" target="European" />
+    <edge source="Europe" target="nationalism" />
+    <edge source="Europe" target="socialism" />
+    <edge source="Europe" target="antiglobalism" />
+    <edge source="Europe" target="Deutschland" />
+    <edge source="Europe" target="Europa" />
+    <edge source="Europe" target="WhiteLivesMatter" />
+    <edge source="Europe" target="Italy" />
+    <edge source="Europe" target="SHOONGxTAEYANGxLISA" />
+    <edge source="Europe" target="LISA" />
+    <edge source="Europe" target="LeafsForever" />
+    <edge source="Oslo" target="ELS" />
+    <edge source="Oslo" target="Norway" />
+    <edge source="Oslo" target="visitoslo" />
+    <edge source="Oslo" target="postmalone" />
+    <edge source="Oslo" target="posty" />
+    <edge source="Oslo" target="bubbly" />
+    <edge source="Oslo" target="LilleO" />
+    <edge source="Oslo" target="publictransport" />
+    <edge source="Oslo" target="SoProud" />
+    <edge source="Oslo" target="ActOnClimate" />
+    <edge source="Oslo" target="SDGs" />
+    <edge source="Oslo" target="GlobalGoals" />
+    <edge source="Ethereum" target="XRPLCommunity" />
+    <edge source="BTC" target="NFTCommunity" />
+    <edge source="aurora" target="Norway" />
+    <edge source="auroraborealis" target="Norway" />
+    <edge source="visitnorway" target="Norway" />
+    <edge source="visitoslo" target="VisitOslo" />
+    <edge source="visitoslo" target="royalpalaceoslo" />
+    <edge source="visitoslo" target="street" />
+    <edge source="visitoslo" target="heritage" />
+    <edge source="visitoslo" target="montain" />
+    <edge source="visitoslo" target="landscapes" />
+    <edge source="visitoslo" target="architecture" />
+    <edge source="visitoslo" target="arquitectura" />
+    <edge source="visitoslo" target="arquitetura" />
+    <edge source="visitoslo" target="landscape" />
+    <edge source="visitoslo" target="wu_norway" />
+    <edge source="visitoslo" target="norway_places" />
+    <edge source="visitoslo" target="topnorwayphotos" />
+    <edge source="visitoslo" target="norwaytravel" />
+    <edge source="visitoslo" target="p3top" />
+    <edge source="visitoslo" target="vsco" />
+    <edge source="visitoslo" target="tourism" />
+    <edge source="visitoslo" target="trip" />
+    <edge source="Ukraine" target="Norway" />
+    <edge source="UkraineWillWin" target="Norway" />
+    <edge source="Ukrainian" target="Norway" />
+    <edge source="Norway" target="Norwegian" />
+    <edge source="Norway" target="RussiaIsLosing" />
+    <edge source="Norway" target="Russia" />
+    <edge source="Norway" target="Germany" />
+    <edge source="Norway" target="russia" />
+    <edge source="Norway" target="BREAKING" />
+    <edge source="Norway" target="Sweden" />
+    <edge source="Norway" target="Norwaymemories" />
+    <edge source="Norway" target="stampcollecting" />
+    <edge source="Norway" target="NordicLife" />
+    <edge source="Art" target="NFTs" />
+    <edge source="NFT" target="XRPL" />
+    <edge source="Web3" target="XRPLCommunity" />
+    <edge source="ELS" target="TimeSquare" />
+    <edge source="ELS" target="XRPL" />
+    <edge source="ELS" target="XRPLCommunity" />
+    <edge source="ELS" target="NFTCommunity" />
+    <edge source="ELS" target="XRP" />
+    <edge source="ELS" target="NFTs" />
+    <edge source="ELS" target="XRPCommunity" />
+    <edge source="ELS" target="art" />
+    <edge source="ELS" target="creativityandinnovationday" />
+    <edge source="ELS" target="ELs" />
+    <edge source="ELS" target="ELL2point0" />
+    <edge source="ELS" target="artworks" />
+    <edge source="ELS" target="NFTartists" />
+    <edge source="ELS" target="USA" />
+    <edge source="ELS" target="rabbit2023" />
+    <edge source="ELS" target="CandyLove" />
+    <edge source="posty" target="PostMalone" />
+    <edge source="posty" target="postmaloneconcert" />
+    <edge source="posty" target="ghosty" />
+    <edge source="posty" target="theo2" />
+    <edge source="posty" target="o2tickets" />
+    <edge source="posty" target="postmalonetickets" />
+    <edge source="posty" target="o2london" />
+    <edge source="posty" target="tickets" />
+    <edge source="posty" target="wow" />
+    <edge source="posty" target="KeepGoing" />
+    <edge source="posty" target="postycrew" />
+    <edge source="bubbly" target="newcontent" />
+    <edge source="bubbly" target="alert" />
+    <edge source="bubbly" target="emerald" />
+    <edge source="bubbly" target="enigma" />
+    <edge source="bubbly" target="ponder" />
+    <edge source="bubbly" target="consider" />
+    <edge source="bubbly" target="concept" />
+    <edge source="bubbly" target="iam" />
+    <edge source="bubbly" target="bubblynft" />
+    <edge source="bubbly" target="wiretree" />
+    <edge source="bubbly" target="sculptures" />
+    <edge source="bubbly" target="resin" />
+    <edge source="bubbly" target="mold" />
+    <edge source="bubbly" target="skull" />
+    <edge source="bubbly" target="MHHSBD" />
+    <edge source="bubbly" target="resinart" />
+    <edge source="bubbly" target="creativeminds" />
+    <edge source="bubbly" target="trialanderror" />
+    <edge source="bubbly" target="creativeart" />
+    <edge source="bubbly" target="oakn4" />
+    <edge source="bubbly" target="winebar" />
+    <edge source="bubbly" target="winestore" />
+    <edge source="bubbly" target="champagne" />
+    <edge source="bubbly" target="charlesheidsieck" />
+    <edge source="bubbly" target="sparklingwine" />
+    <edge source="bubbly" target="frenchwine" />
+    <edge source="bubbly" target="finsburypark" />
+    <edge source="bubbly" target="northlondon" />
+    <edge source="bubbly" target="theplacetobe" />
+    <edge source="bubbly" target="quest" />
+    <edge source="bubbly" target="Prosecco" />
+    <edge source="bubbly" target="Champagne" />
+    <edge source="bubbly" target="WineLovers" />
+    <edge source="bubbly" target="Bubbly" />
+    <edge source="LilleO" target="NapoliMilan" />
+    <edge source="LilleO" target="AJALOSC" />
+    <edge source="publictransport" target="PublicTransport" />
+    <edge source="publictransport" target="design" />
+    <edge source="publictransport" target="posterdesignchallenge" />
+    <edge source="publictransport" target="Bradford" />
+    <edge source="publictransport" target="Mexico" />
+    <edge source="publictransport" target="YutongTechnology" />
+    <edge source="publictransport" target="CDMX" />
+    <edge source="publictransport" target="busstop" />
+    <edge source="publictransport" target="cycling" />
+    <edge source="publictransport" target="kadambabus" />
+    <edge source="ActOnClimate" target="ClimateEmergency" />
+    <edge source="ActOnClimate" target="climate" />
+    <edge source="ActOnClimate" target="energy" />
+    <edge source="ActOnClimate" target="renewables" />
+    <edge source="ActOnClimate" target="COP15" />
+    <edge source="ActOnClimate" target="biodiversity" />
+    <edge source="ActOnClimate" target="deforestation" />
+    <edge source="ActOnClimate" target="rewilding" />
+    <edge source="ActOnClimate" target="solutions" />
+    <edge source="ActOnClimate" target="nature" />
+    <edge source="ActOnClimate" target="GreenNewDeal" />
+    <edge source="ActOnClimate" target="TrophyHunting" />
+    <edge source="ActOnClimate" target="MakeShellPay" />
+    <edge source="ActOnClimate" target="actonclimate" />
+    <edge source="ActOnClimate" target="climateaction" />
+    <edge source="SDGs" target="GreenCities" />
+    <edge source="SDGs" target="LACForum2030" />
+    <edge source="SDGs" target="netzero" />
+    <edge source="SDGs" target="Under2Coalition" />
+    <edge source="SDGs" target="Goal8" />
+    <edge source="SDGs" target="Tech4SDGs" />
+    <edge source="SDGs" target="research" />
+    <edge source="SDGs" target="STMAnnualUS" />
+    <edge source="SDGs" target="Youth2030" />
+    <edge source="SDGs" target="COP28" />
+    <edge source="SDGs" target="GlobalGateway" />
+    <edge source="SDGs" target="newACPEU" />
+    <edge source="SDGs" target="EULAC" />
+    <edge source="GlobalGoals" target="WorldBookDay" />
+    <edge source="GlobalGoals" target="WaterAction" />
+    <edge source="GlobalGoals" target="DiplomacyDay" />
+    <edge source="GlobalGoals" target="ClimateAction" />
+    <edge source="GlobalGoals" target="ServingForPeace" />
+    <edge source="GlobalGoals" target="8BillionStrong" />
+    <edge source="GlobalGoals" target="ClimateCrisis" />
+    <edge source="TimeSquare" target="CHAEHYUN" />
+    <edge source="TimeSquare" target="김채현" />
+    <edge source="TimeSquare" target="Kep1er" />
+    <edge source="TimeSquare" target="케플러" />
+    <edge source="TimeSquare" target="SUGA_AgustD_TOUR" />
+    <edge source="TimeSquare" target="khositwala" />
+    <edge source="TimeSquare" target="BBTitans" />
+    <edge source="TimeSquare" target="KhobangMazitwala" />
+    <edge source="XRPL" target="XRPArmyWorld" />
+    <edge source="XRPL" target="XRPArmyUnite" />
+    <edge source="XRPL" target="Metaverse" />
+    <edge source="XRPL" target="XRPArmy" />
+    <edge source="XRPL" target="Sologenic" />
+    <edge source="XRPL" target="Xumm" />
+    <edge source="XRPL" target="Ecommerce" />
+    <edge source="XRPL" target="HBARbarians" />
+    <edge source="XRPL" target="XRPLMoonbirds" />
+    <edge source="XRPL" target="RatPunks" />
+    <edge source="XRPL" target="xrpl" />
+    <edge source="XRPL" target="PixelAstros" />
+    <edge source="XRPL" target="XUMM" />
+    <edge source="XRPL" target="NFTGiveaways" />
+    <edge source="XRPL" target="NFTshill" />
+    <edge source="XRPL" target="NFTdrops" />
+    <edge source="XRPL" target="SGB" />
+    <edge source="XRPL" target="SongbirdNetwork" />
+    <edge source="XRPL" target="nftartgallery" />
+    <edge source="XRPL" target="NFTart" />
+    <edge source="XRPL" target="Flare" />
+    <edge source="XRPL" target="HBAR" />
+    <edge source="XRPL" target="tezos" />
+    <edge source="XRPL" target="AIArtwork" />
+    <edge source="XRPL" target="Bitcoin" />
+    <edge source="XRPLCommunity" target="Giveaway" />
+    <edge source="XRPLCommunity" target="TwitterPicker" />
+    <edge source="XRPLCommunity" target="GiveawayAlert" />
+    <edge source="XRPLCommunity" target="Giveaways" />
+    <edge source="XRPLCommunity" target="XRPHolders" />
+    <edge source="XRPLCommunity" target="RIPPLECLOWNS" />
+    <edge source="XRPLCommunity" target="FineArt" />
+    <edge source="XRPLCommunity" target="GIVEAWAY" />
+    <edge source="XRPLCommunity" target="Alcacor" />
+    <edge source="XRPLCommunity" target="PolygonNFT" />
+    <edge source="XRPLCommunity" target="AMAmen" />
+    <edge source="NFTCommunity" target="AviveMap" />
+    <edge source="NFTCommunity" target="AviveGlory" />
+    <edge source="NFTCommunity" target="WEB3" />
+    <edge source="NFTCommunity" target="community" />
+    <edge source="NFTCommunity" target="nftcollector" />
+    <edge source="NFTCommunity" target="Matrix" />
+    <edge source="NFTCommunity" target="glitch" />
+    <edge source="NFTCommunity" target="Freemint" />
+    <edge source="NFTCommunity" target="FreeNFTs" />
+    <edge source="NFTCommunity" target="Airdrop" />
+    <edge source="NFTCommunity" target="nfts" />
+    <edge source="NFTCommunity" target="sitone_art" />
+    <edge source="NFTCommunity" target="AppleDpod" />
+    <edge source="NFTCommunity" target="web3community" />
+    <edge source="NFTCommunity" target="Crypto" />
+    <edge source="NFTCommunity" target="cryptocurrency" />
+    <edge source="NFTCommunity" target="nftart" />
+    <edge source="NFTCommunity" target="EthereumNFT" />
+    <edge source="NFTCommunity" target="opensea" />
+    <edge source="NFTCommunity" target="MagicEden" />
+    <edge source="NFTCommunity" target="Blur" />
+    <edge source="XRP" target="Ripple" />
+    <edge source="NFTs" target="Moovy" />
+    <edge source="NFTs" target="Marketplace" />
+    <edge source="NFTs" target="Gateio" />
+    <edge source="NFTs" target="cars" />
+    <edge source="NFTs" target="Drive2Earn" />
+    <edge source="NFTs" target="Move2Earn" />
+    <edge source="NFTs" target="giveaway" />
+    <edge source="NFTs" target="giveaways" />
+    <edge source="NFTs" target="USDTGiveaway" />
+    <edge source="NFTs" target="Memecoins" />
+    <edge source="NFTs" target="Giveawayscrypto" />
+    <edge source="NFTs" target="CryptoNews" />
+    <edge source="NFTs" target="Blockchain" />
+    <edge source="NFTs" target="follow" />
+    <edge source="NFTs" target="crypto" />
+    <edge source="NFTs" target="NFTCommunitys" />
+    <edge source="NFTs" target="USDT" />
+    <edge source="NFTs" target="Airdrops" />
+    <edge source="NFTs" target="Sui" />
+    <edge source="NFTs" target="mīnArtClub" />
+    <edge source="NFTs" target="testnet" />
+    <edge source="NFTs" target="MULTIVERSX" />
+    <edge source="NFTs" target="Thread" />
+    <edge source="NFTs" target="airdrop" />
+    <edge source="NFTs" target="AirdropAlert" />
+    <edge source="XRPCommunity" target="XRPcommunity" />
+    <edge source="XRPCommunity" target="KASPA" />
+    <edge source="XRPCommunity" target="DigitalSilver" />
+    <edge source="XRPCommunity" target="dagknight" />
+    <edge source="XRPCommunity" target="BlockDag" />
+    <edge source="XRPCommunity" target="x100Gem" />
+    <edge source="XRPCommunity" target="KAS" />
+    <edge source="XRPCommunity" target="xrp" />
+    <edge source="XRPCommunity" target="xrpsec" />
+    <edge source="XRPCommunity" target="xrparmy" />
+    <edge source="XRPCommunity" target="xrpcommunity" />
+    <edge source="XRPCommunity" target="xrpledger" />
+    <edge source="XRPCommunity" target="xrpthestandart" />
+    <edge source="XRPCommunity" target="ripple" />
+    <edge source="XRPCommunity" target="ripplesec" />
+  </graph>
+</graphml>
