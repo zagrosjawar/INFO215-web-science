@@ -26,7 +26,7 @@ def scrolldown():
         ActionChains(driver).send_keys(Keys.PAGE_DOWN).perform()
         time.sleep(.3)
 
-def login():
+def login(): # this funciton is just to give you some time to log in to your twitter account.
     driver.get("https://twitter.com/hashtag/Test")
     time.sleep(40)
 
