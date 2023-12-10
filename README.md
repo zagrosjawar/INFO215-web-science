@@ -1,8 +1,8 @@
 ## Welcome to my INFO215-web-science GitHub repository!
 
-Here you'll find my assignments, projects, and resources from the INFO215 course at the University of Bergen. Throughout the course, I gained extensive knowledge of Web Science, including web data crawling, analysis, and visualization using Python and libraries like Spacy, Django, and Scrapy.
+Here you'll find my assignments/projects, and resources from web science course at the University of Bergen. Throughout the course, I gained extensive knowledge of Web Science, including web data crawling, analysis, and visualization using Python and its libraries such as Spacy, Django, and Scrapy.
 
-I also explored exciting topics such as social web mining, utilizing APIs like GitHub and Wikipedia to extract valuable insights from web data. Join me on this web science journey as we unlock the power of the web and its vast potential.
+I also explored exciting topics such as social web mining, utilizing APIs like GitHub API and Wikipedia API to extract valuable insights from social web data. 
 
 ### Main Topics of INFO215 Web Science
 - Web architecture, Client side technologies, XML, HTML, XPATh
